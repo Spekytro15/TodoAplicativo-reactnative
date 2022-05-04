@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "saudev8",
+    "slug": "saudev8",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
